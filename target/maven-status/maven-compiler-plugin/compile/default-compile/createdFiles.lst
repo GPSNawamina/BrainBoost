@@ -1,0 +1,15 @@
+com\brainboost\learningprogress\model\ProgressUpdate.class
+com\brainboost\learningprogress\service\AchievementService.class
+com\brainboost\security\SecurityConfig.class
+com\brainboost\learningprogress\model\LearningProgress.class
+com\brainboost\coursemanagement\controller\CourseController.class
+com\brainboost\coursemanagement\repository\CourseRepository.class
+com\brainboost\learningprogress\controller\LearningProgressController.class
+com\brainboost\learningprogress\repository\LearningProgressRepository.class
+com\brainboost\shared\models\BaseEntity.class
+com\brainboost\learningprogress\controller\AchievementController.class
+com\brainboost\BrainBoostApplication.class
+com\brainboost\coursemanagement\model\Course.class
+com\brainboost\coursemanagement\model\Module.class
+com\brainboost\learningprogress\model\Achievement.class
+com\brainboost\learningprogress\repository\AchievementRepository.class
